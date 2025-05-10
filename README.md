@@ -1,82 +1,37 @@
+# 🍫 Awesome Chocolate - Sales Performance Analysis Dashboard (Power BI)
 
-# 🍫 Awesome Chocolate Sales Dashboard – Power BI
+This Power BI project provides a comprehensive analysis of sales, profit, and shipment data for **Awesome Chocolate**, a premium confectionery brand. The dashboard helps identify trends, monitor performance, and recommend actions to enhance revenue and operational efficiency.
 
-A dynamic Power BI dashboard that provides actionable insights into the sales and performance of the fictional brand **Awesome Chocolate**. 
-This project focuses on driving business decisions through interactive visuals and storytelling.
+## 📌 Problem Statement
+
+The company seeks to analyze its sales performance across different months and sales personnel, track key performance indicators (KPIs) such as profit margin and shipment efficiency, and identify patterns that can inform strategic decisions.
 
 ---
 
 ## 📊 Dashboard Overview
 
-This dashboard covers the following key areas:
+### ✅ Key Metrics
+- **Total Sales:** $34M  
+- **Total Profit:** $32M  
+- **Total Costs:** $2M  
+- **Total Shipments:** 6K  
+- **Total Boxes Shipped:** 2M  
+- **Average Profit Margin:** ~94%
 
-- ✅ **Total Sales**, **Total Profit**, **Avg. Sales Price**
-- 📈 **Sales & Profit Trends Over Time**
-- 🍫 **Top-Selling & Low-Performing Products**
-- 🌍 **Regional Sales Insights**
-- 👥 **Customer Segmentation**
-- 🔄 **Profitability by Product & Volume**
+### 📈 Pages & Visuals
+- **Sales Trend Analysis:** Month-over-month growth, seasonal patterns
+- **Profitability Overview:** Profit vs. Cost, margin analysis
+- **Salesperson Performance:** Individual contribution to sales and efficiency
+- **Shipment & Logistics:** Boxes, LBS%, and distribution analysis
 
 ---
 
 ## 🔍 Key Insights
 
-- **📌 80/20 Rule Observed**: ~20% of products generate 80% of total revenue.
-- **📉 High-Selling, Low-Profit Products**: Indicates potential underpricing or cost issues.
-- **📍 Strong Regional Sales**: West & South zones outperform other areas.
-- **🎯 Seasonal Sales Peaks**: Higher demand observed during festive months (Oct–Dec).
-- **🔁 Low Repeat Customer Rate**: Opportunity for improving customer loyalty.
+- 📌 **December 2023** was the highest-performing month with a **+28.9%** MoM growth.
+- 📉 **November 2023** saw a steep **-19.9%** decline, requiring deeper investigation.
+- 🏆 **Kelci Walkden** led in both total sales and p
 
----
-
-## 💡 Recommendations
-
-- 🎯 Focus marketing on top products and fast-growing regions.
-- 💰 Reassess pricing strategies for high-volume, low-profit SKUs.
-- 🤝 Launch a **loyalty program** to retain repeat customers.
-- 📦 Use time-series forecasts for better seasonal inventory planning.
-- ➕ Introduce **product bundles** to boost average order value.
-- 🧭 Investigate low-performing regions for growth opportunities.
-
----
-
-## 🛠 Tools Used
-
-- **Power BI Desktop**
-- **Data Modeling & Relationships**
-- **DAX (Data Analysis Expressions)**
-- **Interactive Visualizations & Slicers**
-
----
-
-## 📁 Project Files
-
-- `Awesome Chocolate.pbix` – Power BI Dashboard
-- Sample dataset (embedded inside `.pbix` file)
-
----
-
-## 🖼 Dashboard Preview
-
-![Dashboard Screenshot](https://your-image-link.com)  
-_Example: Total Sales, Profit Trends, Product Category Breakdown, Geo Insights_
-
----
-
-## 🚀 How to Use
-
-1. Clone or download this repository.
-2. Open `Awesome Chocolate.pbix` in Power BI Desktop.
-3. Explore and interact with the report.
-4. Customize or connect to a live data source if needed.
-
----
-
-## 📬 Connect With Me
-
-- 📧 Email: yourname@email.com
-- 💼 [LinkedIn](https://linkedin.com/in/rachi-nikose)
-- 🐙 [GitHub](https://github.com/rachi-nikose)
 
 ---
 
